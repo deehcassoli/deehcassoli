@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Animação estilo Máquina de Escrever -->
+  <!-- Animação estilo Máquina de Escrever em ROSA -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=60&lines=Ol%C3%A1%2C+eu+sou+a+Debora+Cassoli+%F0%9F%90%B1%E2%80%8D%F0%9F%91%BB;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Faculdade+Impacta+(2023+-+2026)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=Ol%C3%A1%2C+eu+sou+a+Debora+Cassoli+%F0%9F%90%B1%E2%80%8D%F0%9F%91%BB;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Faculdade+Impacta+(2023+-+2026)" alt="Typing SVG" />
   </a>
 
 </div>
