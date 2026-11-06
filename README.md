@@ -18,6 +18,5 @@
 <br>
 
 <div align="center">
-  <!-- Imagem GIF Animada de Programação -->
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="300px" alt="Coding GIF">
+  <img src="https://raw.githubusercontent.com/taniarascia/taniarascia/master/coding.gif" width="350px" alt="Coding GIF">
 </div>
